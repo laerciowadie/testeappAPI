@@ -1,7 +1,7 @@
 {
   "name": "node-api",
   "version": "1.0.0",
-  "description": "API REST para o teste de dev",
+  "description": "API REST para o teste de engenheiro de software",
   "author": "Laercio Wadie <laercio.wadie@gmail.com>",
   "main": "server.js",
   "scripts": {
